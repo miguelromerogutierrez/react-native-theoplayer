@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["PlayerError.ts"],"sourcesContent":["export interface PlayerError {\n  readonly errorCode: string;\n  readonly errorMessage: string;\n}\n"],"mappings":""}

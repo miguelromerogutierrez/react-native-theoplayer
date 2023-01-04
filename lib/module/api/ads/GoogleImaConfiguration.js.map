@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["GoogleImaConfiguration.ts"],"sourcesContent":["/**\n * Describes the configuration of Google IMA.\n *\n * @internal\n */\nexport interface GoogleImaConfiguration {\n  /**\n   * Whether the native (mobile) IMA implementation will be used.\n   *\n   * @internal\n   */\n  useNativeIma: boolean;\n}\n"],"mappings":""}

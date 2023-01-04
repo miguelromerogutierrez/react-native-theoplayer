@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["NativeContentProtectionEvent.ts"],"sourcesContent":["export interface NativeContentProtectionEvent {\n  requestId: string;\n  integrationId: string;\n  keySystemId: string;\n}\n"],"mappings":""}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["TimeRange.ts"],"sourcesContent":["export interface TimeRange {\n  readonly start: number;\n\n  readonly end: number;\n}\n"],"mappings":""}
