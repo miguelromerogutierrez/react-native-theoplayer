@@ -39,6 +39,9 @@ public class PlayerConfigHelper {
         configBuilder.chromeless(configProps.getBoolean(PROP_CHROMELESS));
       }
     }
+
+    configBuilder.cssPaths("file:///android_asset/css/theoplayer.css")
+
     return configBuilder.build();
   }
 
