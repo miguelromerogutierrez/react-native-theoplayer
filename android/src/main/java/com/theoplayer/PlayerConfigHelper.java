@@ -40,7 +40,7 @@ public class PlayerConfigHelper {
       }
     }
 
-    configBuilder.cssPaths("file:///android_asset/css/theoplayer.css")
+    configBuilder.cssPaths("file:///android_asset/css/theoplayer.css");
 
     return configBuilder.build();
   }
